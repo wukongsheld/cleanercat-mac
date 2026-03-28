@@ -1,0 +1,14 @@
+{
+  "name": "cleanercat",
+  "version": "1.0.0",
+  "description": "Mac disk cleanup and maintenance skills powered by CleanerCat. Scan junk, find large files, detect duplicates, and free up disk space.",
+  "author": {
+    "name": "CleanerCat",
+    "email": "",
+    "url": "https://cleanercat.lightyear.xin"
+  },
+  "homepage": "https://cleanercat.lightyear.xin",
+  "repository": "https://github.com/wukongsheld/cleanercat-mac",
+  "license": "MIT",
+  "keywords": ["mac", "cleanup", "disk", "junk", "duplicates", "storage", "macos"]
+}

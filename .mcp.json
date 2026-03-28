@@ -1,0 +1,6 @@
+{
+  "cleanercat": {
+    "command": "./bin/cleanercat-mcp",
+    "args": []
+  }
+}
